@@ -33,6 +33,15 @@ Change the _pdf_path_ and _csv_path_ in *pdf_2_csv.py* to generate the csv from 
 python pdf_2_csv.py
 ```
 
+### Setting Up Groq
+1. Go to https://groq.com/.
+2. Sign In using your favourite Email Id.
+3. Click on GroqCloud.
+4. Create an API Key with name "chatbot".
+5. Copy the API Key and add it in _script.py_ and *chat_app.py*
+
+Additional documentation can be found at https://console.groq.com/docs/quickstart.
+
 ### Running the Python Script
 
 To run the Python script, make sure that questions.txt is present in the existing directory. This script will read the questions from questions.txt and generate answers in answers.txt.
