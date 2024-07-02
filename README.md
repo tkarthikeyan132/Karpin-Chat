@@ -4,7 +4,7 @@ This repository contains a chatbot that answers questions related to electoral b
 
 ## Block Diagram
 
-![Block diagram of the Chat Application](block_diagram.jpeg)
+![Block diagram of the Chat Application](block.drawio.svg)
 
 ## Setup Instructions
 
