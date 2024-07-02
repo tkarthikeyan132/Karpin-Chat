@@ -2,6 +2,10 @@
 
 This repository contains a chatbot that answers questions related to electoral bonds. The chatbot can be run as a Python script or deployed as a Streamlit application.
 
+## Block Diagram
+
+![Block diagram of the Chat Application](block_diagram.jpeg)
+
 ## Setup Instructions
 
 ### Create a Conda Environment
@@ -23,7 +27,7 @@ pip install -r requirements.txt
 
 ### Running the PDF to CSV script
 
-Change the _pdf_path_ and _csv_path_ in _pdf_2_csv.py to generate the csv from pdf file.
+Change the _pdf_path_ and _csv_path_ in *pdf_2_csv.py* to generate the csv from pdf file.
 
 ```bash
 python pdf_2_csv.py
